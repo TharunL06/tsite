@@ -1,5 +1,5 @@
-import Ecommerce from '../assets/ecommerce-websites.jpg';
-import websiteImg2 from '../assets/food-ecommerce.jpg';
+import Ecommerce from '../assets/Ecommerce.png';
+import livenews from '../assets/livenews.png';
 import websiteImg3 from '../assets/website-blog.jpg';
 import Dashboard from '../assets/dashboard.jpg';
 
@@ -18,7 +18,7 @@ export default function Projects() {
                 link: 'https://github.com/TharunL06/dashboard'
             },
             {
-                image: websiteImg3,
+                image: livenews,
                 description: 'Live - news project - React Js with bootstrap',
                 link: 'https://github.com/TharunL06/live-news'
             },
