@@ -1,18 +1,19 @@
-import websiteImg1 from '../assets/ecommerce-websites.jpg';
+import Ecommerce from '../assets/ecommerce-websites.jpg';
 import websiteImg2 from '../assets/food-ecommerce.jpg';
 import websiteImg3 from '../assets/website-blog.jpg';
+import Dashboard from '../assets/dashboard.jpg';
 
 export default function Projects() {
 
     const config = {
         projects : [
             {
-                image: websiteImg1,
+                image: Ecommerce,
                 description: 'Ecoyaan project - React Js with tailwind css.',
                 link: 'https://github.com/TharunL06/Ecoyaan'
             },
             {
-                image: websiteImg2,
+                image: Dashboard,
                 description: 'Dashboard project - React Js with syncfusion components',
                 link: 'https://github.com/TharunL06/dashboard'
             },
